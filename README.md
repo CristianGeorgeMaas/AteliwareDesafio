@@ -1,6 +1,6 @@
 <h1>AteliwareDesafio</h1>
 
-<h2>ASP.NET Core 6.0 WebApp Desafio Técnico</h2>
+<h2>ASP.NET Core .NET 6 WebApp Desafio Técnico</h2>
 
 <h2>Instalação<h2/>
   <ul>
