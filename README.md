@@ -9,6 +9,6 @@
     <li>Recompile a solução, para restaurar pacotes, etc.</li>
     <li>Alterar arquivo appsettings.json => ConnectionStrings, escolha "defaultConnection" ou "NpgsqlConnection".</li>
     <li>Alterar o arquivo program.cs, em "region DataBase" habilite ou desabilite cfe sua escolha acima.</li>
-    <li>Execute em console gerenciador pacotes NuGet ou terminal no VSCode o comando inicial para a criação do banco de dados, etc. (Add-Migration Initial ou add-migration initial) em seguida, execute o compando (Update-Database ou update-database)</li>
+    <li>Execute em console gerenciador pacotes NuGet ou terminal no VSCode o comando inicial para a criação do banco de dados, etc. (Add-Migration Initial ou add-migration initial) em seguida, execute o comando (Update-Database ou update-database)</li>
     <li>Execute a aplicação.</li>
   </ul>
